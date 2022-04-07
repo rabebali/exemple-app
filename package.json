@@ -20,7 +20,8 @@
     "update": "ng update --force --all",
     "e2e": "ng e2e",
     "cypress:open": "cypress open",
-    "cypress:run": "cypress run"
+    "cypress:run": "cypress run",
+    "sonar-scanner": "node_modules/sonar-scanner/bin/sonar-scanner.bat"
   },
   "private": true,
   "engines": {
