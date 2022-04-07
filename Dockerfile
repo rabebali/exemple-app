@@ -1,4 +1,4 @@
-FROM node:16
+FROM node:12.22.5
 
 # Create app directory
 WORKDIR /usr/src/app
